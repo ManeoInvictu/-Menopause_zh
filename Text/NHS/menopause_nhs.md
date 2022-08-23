@@ -30,6 +30,7 @@
 * 性欲减退
 * 阴道干燥，性生活时疼痛、瘙痒或不舒服
 * 反复发作的尿路感染（UTIs）
+
 __如果出现以下情况，请就医（非紧急）。__
 > 你认为自己出现了近更年期或更年期症状。可以从医生处了解治疗和缓解方法。
 
@@ -37,7 +38,60 @@ __如果出现以下情况，请就医（非紧急）。__
 症状可能持续数月或数年，并可能随着时间的推移而改变。
 例如，潮热和盗汗可能会改善，随偶可能出现情绪低落(low mood)和焦虑(anxiety)。
 有些症状，如关节疼痛和阴道干燥，在月经停止后仍可能存在。
+
 __【建议】针对症状获得帮助__
 尽早获得医嘱可以帮助减少近更年期和更年期对你的健康、关系和工作的影响。
 
+# [对策](https://www.nhs.uk/conditions/menopause/things-you-can-do/)
+## 可以帮助更年期和近更年期的日常生活细节
+良好的饮食、锻炼和照顾你的精神状态（保持心情舒畅，例如交友和锻炼身体 [another link](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/) [sussex](http://www.sussex.ac.uk/wellbeing/mentalhealth/mentalwellbeing) ）能够缓解在近更年期和更年期的症状。
+它也可以帮助你在将来尽可能地健康。
 
+### 推荐在日常生活中做到以下几点（做到一条算一条）
+> * 充分休息，包括保持规律的睡眠习惯
+> * 健康饮食
+> * 吃富含钙质的食物，如牛奶、酸奶和甘蓝，以保持骨骼健康
+> * 定期锻炼，最好能尝试负重运动。这种活动让你的脚和腿支撑你的体重。走路、跑步或跳舞都属于这类活动。
+> * 做一些放松的事，如瑜伽、太极拳或冥想（来放松身心）
+> * 与其他正在经历同样事情的人交流，如家人、朋友或同事（避免感到孤立无援）
+> * 如果打算使用偏方，请和医生商量（并且持续观察效果）
+
+### 避免以下几点
+> * 不要吸烟
+> * 不要过量饮酒(一周内不要超过摄入140毫升或112克酒精，每天不要超过饮酒35毫升或28克酒精 [another link](https://www.nhs.uk/live-well/alcohol-advice/calculating-alcohol-units/))
+
+## 如何缓解情绪变化
+
+很多人会在更年期和近更年期中有情绪波动(mood swings)、情绪低落(low mood)和焦虑(anxiety)。
+你可以尝试一下以下方法来缓解
+* 充分休息
+* 定期锻炼
+* 做一些放松的活动
+
+可以尝试认知行为疗法（[CBT](https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/cognitive-behavioural-therapy-cbt/overview/)）。这是一种谈话疗法，可以缓解情绪低落(low mood)和焦虑(anxiety)，以及睡眠问题。
+## 如何缓解潮热和盗汗？
+你可以尝试以下方法
+* 穿轻薄的衣服睡觉
+* 在晚上保持卧室凉爽
+* 洗凉水澡、开风扇或喝杯冷饮
+* 尽量降低你的压力水平 （[stress](https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/stress/)）
+* 避免或减少潜在的干扰因素，如辛辣食物、咖啡因、热饮、吸烟和喝酒
+* 定期锻炼 （[exercise](https://www.nhs.uk/live-well/exercise/)）
+* 如果你超重，请尝试减肥 （[lose weight](https://www.nhs.uk/better-health/lose-weight/)）
+认知行为疗法(CBT)也可以帮助控制潮热。
+## 如何缓解阴道干燥
+阴道湿润剂或润滑剂。这些在药店买到，（在英国）无需处方。
+如果不确定哪种湿润剂适合自己，可以征求药店药剂师的建议（私下）（此建议在英国成立，不确定是否适用于中国大陆）。
+如果你在做爱时使用避孕套，不要使用油性润滑剂（油基润滑剂）。油性润滑剂可能会损坏避孕套。清可以使用水性润滑剂（水基润滑剂）。
+医生可能会给出其他治疗阴道干燥的方法，如激素替代疗法（HRT）或荷尔蒙治疗（使用药膏、陰道栓劑（子宫托）[hk src](https://www.ha.org.hk/hadf/Portals/0/Docs/Leaflets/TC/%E9%99%B0%E9%81%93%E6%A0%93%E5%8A%91%E9%99%B0%E9%81%93%E8%97%A5%E7%89%87.pdf)、凝胶或阴道环）。
+了解有关[更年期的治疗](upcoming one)。
+## 防止骨质疏松
+你可以尝试以下方法
+* 定期锻炼，包括负重运动，用脚和腿支撑你的体重（如走路、跑步或跳舞），也包括抗阻运动（例如，使用负重（哑铃等））。
+* 健康饮食，包括充足的水果、蔬菜和富含钙的食物，如牛奶、酸奶和甘蓝。
+* 适当让皮肤晒晒太阳，这可以促进人体生成维生素D，来帮助保持骨骼健康。
+* 服用维生素D补充剂
+* 戒烟并减少饮酒
+
+[点击了解更多关于预防骨质疏松症的信息](https://www.nhs.uk/conditions/osteoporosis/prevention/)
+激素替代疗法可以减少骨质疏松症的风险。
